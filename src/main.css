@@ -1,0 +1,31 @@
+.num {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* margin-top: 70px; */
+    height: 100vh;
+}
+.input{
+    margin-top: 50px;
+    border-radius: 7%;
+    width:auto;
+    height: 40px;
+    font-size: 12px;
+    padding: 10px;
+    display: flex;
+}
+.reset {
+    margin-left: 10px;
+    background-color: lightcoral;
+    border: 2px solid lightcoral;
+    border-radius: 7%;
+}
+.set-points{
+    margin-left: 2px;
+    background-color: lightgreen;
+    border: 2px solid lightgreen;
+    border-radius: 7%;
+    width: auto;
+    height: 40px;
+}
